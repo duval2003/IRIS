@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background: green;
+    padding: 10px 0;
+    margin: auto;
+    border-radius: 6px;
+    color: white;
+    box-shadow: none;
+}
+
+main{
+    color: skyblue;
+    border: solid green;
+    padding: 10px ;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background: rgb(42, 29, 71);
+    padding: 10px 0;
+}

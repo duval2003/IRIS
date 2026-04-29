@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background: blue;
+    color: white;
+    padding: 10px 0;
+    margin: auto;
+    max-width: 1440px;
+    border-radius: 18px;
+}
+
+textarea{
+    border: solid black;
+}
+
+label{
+    font-size: 30px;
+}
+
+main{
+    background: gray;
+    padding: 60px 1px;
+}

@@ -1,12 +1,10 @@
 .vscode/settings.json
 pages/a-propos.html
 pages/accueil.html
-pages/analyse.html
 pages/blog.html
 pages/contact.html
 pages/produits.html
-pages/projet.html
 pages/service.html
-index.html
 asset/json
 .gitignore
+pub.html
